@@ -5,6 +5,8 @@
 •	Explored societal challenges such as inequality and the digital divide caused by automation, providing actionable policy recommendations for workforce adaptation.
 •	Conducted surveys, analyzed employment data, and reviewed case studies to support findings with industry-specific insights.
 
+---
+
 ## Project Goal
 This project investigates the impact of Artificial Intelligence (AI) on the job market, focusing on:
 1. **Job Displacement Trends**: Identifying industries most at risk of automation.
