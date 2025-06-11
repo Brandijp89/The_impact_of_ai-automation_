@@ -1,5 +1,5 @@
 # The Impact of Artificial Intelligence on the Job Market
-##Description 
+## Description 
 •	Analyzed the effects of AI adoption on job displacement trends across industries, identifying sectors at high risk of automation-driven job loss.
 •	Researched emerging skills and competencies required in AI-driven roles and developed a competency framework to address workforce needs.
 •	Explored societal challenges such as inequality and the digital divide caused by automation, providing actionable policy recommendations for workforce adaptation.
